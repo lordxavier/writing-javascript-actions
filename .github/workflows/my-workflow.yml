@@ -12,9 +12,3 @@ jobs:
 
     - name: hello-action
       uses: ./.github/actions/hello-world
- 
-    - name: Hello Learning Lab User
-      uses: ./.github/actions/hello-world
-  
-    - name: Hello Mona the Octocat
-      uses: ./.github/actions/hello-world
