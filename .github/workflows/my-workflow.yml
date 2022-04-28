@@ -11,4 +11,4 @@ jobs:
       - name: "hello-action"
         uses: ./.github/actions/hello-world
         with:
-          third-greeting: "Hello Mona the Octocat"
+          first-meeting: "Learning Lab User"
